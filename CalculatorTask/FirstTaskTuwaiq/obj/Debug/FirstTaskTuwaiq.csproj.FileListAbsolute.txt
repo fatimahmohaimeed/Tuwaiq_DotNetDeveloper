@@ -1,0 +1,8 @@
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\bin\Debug\FirstTaskTuwaiq.exe.config
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\bin\Debug\FirstTaskTuwaiq.exe
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\bin\Debug\FirstTaskTuwaiq.pdb
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\obj\Debug\FirstTaskTuwaiq.csproj.AssemblyReference.cache
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\obj\Debug\FirstTaskTuwaiq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\obj\Debug\FirstTaskTuwaiq.csproj.CoreCompileInputs.cache
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\obj\Debug\FirstTaskTuwaiq.exe
+C:\Users\Fatmah\source\repos\FirstTaskTuwaiq\FirstTaskTuwaiq\obj\Debug\FirstTaskTuwaiq.pdb
