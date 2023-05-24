@@ -1,1 +1,1 @@
-# Tuwaiq_DotNetDeveloper
+# .Net development bootcamp trainee at Tuwaiq Academy
